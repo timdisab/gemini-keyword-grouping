@@ -2,7 +2,7 @@
 
 Group Google Ads keywords by meaning with Gemini embeddings and agglomerative clustering in Python.
 
-This is the code from the video **Group Google Ads Keywords with AI: Gemini Embeddings + Python**. It groups 100 Keyword Planner keywords for an electrician, so the results can be compared with a grouping done by hand.
+This is the code from the video [**Group Google Ads Keywords with AI: Gemini Embeddings + Python**](https://www.youtube.com/watch?v=rdVwgu2f48M). It groups 100 Keyword Planner keywords for an electrician, so the results can be compared with a grouping done by hand.
 
 ## Setup
 
