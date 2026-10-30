@@ -54,3 +54,7 @@ Good thresholds depend on your keywords, so check the sweep before you trust the
 | `data/human_grouping_v1.csv` | The 100 keywords with the groups assigned by hand |
 | `cache/embeddings.parquet` | Saved embeddings for those keywords |
 | `output/clusters_t*.csv` | Cluster results at thresholds 0.04, 0.06, 0.09, and 0.11 |
+
+## License
+
+MIT. See [LICENSE](LICENSE).
