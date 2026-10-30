@@ -1,0 +1,101 @@
+planner_rank,keyword,avg_monthly_searches,human_group,human_role
+1,electrician,500.0,Electrican,ad_group
+2,emergency electrician,50.0,Emergency Electrician,ad_group
+3,electrical contractor,50.0,Electrical Contractor,ad_group
+4,electrical repair,50.0,Electrical Repair,ad_group
+5,panel upgrade,50.0,Panel Upgrade,ad_group
+6,ev charger,500.0,EV Charger,ad_group
+7,lighting installation,50.0,Lighting Installation,ad_group
+8,backup generator installation,50.0,Generator Installation,ad_group
+9,solar installation,50.0,Solar Installation,ad_group
+10,electrical installation,50.0,Electrical Installation,ad_group
+11,electrician near me,500.0,Electrican,ad_group
+12,tesla solar,50.0,Tesla Solar,ad_group
+13,solar panel cost,50.0,Solar Installation,ad_group
+14,solar installers near me,50.0,Solar Installation,ad_group
+15,solar companies near me,50.0,Solar Installation,ad_group
+16,whole house generator,50.0,Generator Installation,ad_group
+17,emergency electrician near me,50.0,Emergency Electrician,ad_group
+18,solar panel installation,50.0,Solar Installation,ad_group
+19,local electricians,50.0,Electrican,ad_group
+20,solar companies,50.0,Solar Company,ad_group
+21,best solar companies,50.0,Solar Company,ad_group
+22,ev charging stations,5000.0,Irrelevant,irrelevant
+23,electrical contractors near me,50.0,Electrical Contractor,ad_group
+24,residential electricians near me,50.0,Residential Electrician,ad_group
+25,solar panel installers near me,50.0,Solar Installation,ad_group
+26,electric companies near me,50.0,Electrical Contractor,ad_group
+27,local electricians near me,50.0,Electrican,ad_group
+28,solar providers near me,50.0,Solar Company,ad_group
+29,sunrun solar panels,50.0,Sunrun Solar,ad_group
+30,residential electrician,50.0,Residential Electrician,ad_group
+31,whole home generator,50.0,Generator Installation,ad_group
+32,solar panel companies,50.0,Solar Company,ad_group
+33,charging station,500.0,Irrelevant,irrelevant
+34,wallbox pulsar plus,50.0,Wallbox Pulsar Plus,ad_group
+35,electricians in my area,50.0,Electrican,ad_group
+36,electrical services near me,50.0,Electrical Contractor,ad_group
+37,24 hour electrician,50.0,24 Hour Electrician,ad_group
+38,licensed electrician near me,50.0,Electrican,ad_group
+39,solar panel installation cost,50.0,Solar Installation,ad_group
+40,24 hour electrician near me,50.0,24 Hour Electrician,ad_group
+41,electric car charger,50.0,EV Charger,ad_group
+42,ev home charger,50.0,EV Charger,ad_group
+43,electrical repair near me,50.0,Electrical Repair,ad_group
+44,mr sparky electric,50.0,Mr. Sparky,ad_group
+45,house generators,50.0,Generator Installation,ad_group
+46,commercial electrician,50.0,Commercial Electrician,ad_group
+47,electric car charging stations,50.0,Irrelevant,irrelevant
+48,solar panels for your home,50.0,Solar Installation,ad_group
+49,sunrun solar company,50.0,Sunrun Solar,ad_group
+50,best electrician near me,50.0,Electrican,ad_group
+51,car charger,50.0,EV Charger,ad_group
+52,cheap electrician near me,50.0,Electrican,ad_group
+53,generac home generator cost,50.0,Generac,ad_group
+54,certified electrician near me,50.0,Electrican,ad_group
+55,same day electrician,0.0,Same Day Electrician,ad_group
+56,solar panels for home cost,50.0,Solar Installation,ad_group
+57,solar energy companies,50.0,Solar Company,ad_group
+58,affordable electrician near me,50.0,Electrican,ad_group
+59,level 2 charger,50.0,Level 2 Charger,ad_group
+60,electrician services,50.0,Electrican,ad_group
+61,tesla home charger,50.0,Tesla Solar,ad_group
+62,charging stations near me,500.0,Irrelevant,irrelevant
+63,charge point,50.0,Chargepoint Home Flex,ad_group
+64,best solar panel companies,50.0,Solar Company,ad_group
+65,average cost of solar panels,50.0,Solar Company,ad_group
+66,electric car charger for home,50.0,EV Charger,ad_group
+67,solar installation cost,50.0,Solar Installation,ad_group
+68,top solar companies,50.0,Solar Company,ad_group
+69,electrical companies,50.0,Electrical Contractor,ad_group
+70,level 2 ev charger,50.0,Level 2 Charger,ad_group
+71,chargepoint home flex,50.0,Chargepoint Home Flex,ad_group
+72,solar panels for home use,50.0,Solar Installation,ad_group
+73,licensed electrician,50.0,Electrican,ad_group
+74,attic fan installation,50.0,Irrelevant,irrelevant
+75,ev charging stations near me,5000.0,Irrelevant,irrelevant
+76,24 7 electrician near me,50.0,24 Hour Electrician,ad_group
+77,local solar companies,50.0,Solar Company,ad_group
+78,electric charging stations,50.0,Irrelevant,irrelevant
+79,solar panel companies near me,50.0,Solar Installation,ad_group
+80,solar power companies near me,50.0,Solar Company,ad_group
+81,generac whole home generator,50.0,Generac,ad_group
+82,electrify america charging stations,5000.0,Irrelevant,irrelevant
+83,solar contractors near me,50.0,Solar Installation,ad_group
+84,solar panel system cost,50.0,Solar Installation,ad_group
+85,best solar companies near me,50.0,Solar Company,ad_group
+86,electric gate repair near me,50.0,Gate Repair Electrician,ad_group
+87,home solar system cost,50.0,Solar Installation,ad_group
+88,home car charging point,50.0,EV Charger,ad_group
+89,home charging point,0.0,EV Charger,ad_group
+90,home electrician near me,50.0,Residential Electrician,ad_group
+91,find electrician near me,50.0,Electrican,ad_group
+92,juicebox 40,50.0,Irrelevant,irrelevant
+93,commercial electrician near me,50.0,Commercial Electrician,ad_group
+94,solar power companies,50.0,Solar Company,ad_group
+95,mister sparky electric,50.0,Mr. Sparky,ad_group
+96,same day electrician near me,50.0,Same Day Electrician,ad_group
+97,solar power installers near me,50.0,Solar Installation,ad_group
+98,pool electrician near me,50.0,Pool Electrician,ad_group
+99,ford ev charger,50.0,Irrelevant,irrelevant
+100,electrictrician,500.0,Electrican,ad_group
